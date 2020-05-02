@@ -1,5 +1,13 @@
 # client
 
+## Client side
+
+Make sure you have node and `npm` installed.
+
+Make sure you are in directory that has `package.json`
+
+More than necessary dependencies are defined in `package.json`, some will be removed in future.
+
 ## Project setup
 ```
 npm install
@@ -19,6 +27,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
